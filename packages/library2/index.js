@@ -1,0 +1,1 @@
+module.export = (name) => `Hello ${name}, from Library 2`

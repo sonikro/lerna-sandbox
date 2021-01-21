@@ -1,0 +1,20 @@
+{
+  "name": "lerna-sandbox",
+  "version": "1.0.0",
+  "description": "Test application for lerna",
+  "repository": "https://github.com/sonikro/lerna-sandbox.git",
+  "author": "Sonikro",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "nohoist": [
+      "**"
+    ],
+    "packages": [
+      "packages/**"
+    ]
+  },
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
