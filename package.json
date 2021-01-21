@@ -1,6 +1,5 @@
 {
   "name": "lerna-sandbox",
-  "version": "1.0.0",
   "description": "Test application for lerna",
   "repository": "https://github.com/sonikro/lerna-sandbox.git",
   "author": "Sonikro",
