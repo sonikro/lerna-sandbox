@@ -1,1 +1,1 @@
-module.export = (name) => `Hello ${name}, from Library 2. Some bug fix. Other feature2`
+module.export = (name) => `Hello ${name}, from Library 2. Some bug fix. Other feature2. Pre-release`
