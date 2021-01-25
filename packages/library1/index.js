@@ -1,1 +1,1 @@
-module.export = (name) => `Hello ${name}, from Library 1. Feature A. Feature B`;
+module.exports = (name) => `Hello ${name}, from Library 1. Feature A. Feature B`;
