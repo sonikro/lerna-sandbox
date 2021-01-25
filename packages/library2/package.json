@@ -1,6 +1,6 @@
 {
   "name": "@sonikro/lerna-library2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "5e1bf15e5b4fc0218fb5c77180a7f673fe444df6"
